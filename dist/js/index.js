@@ -69,3 +69,4 @@ function addClickEvent() {
     shuffle();
 }
 addClickEvent();
+////////
